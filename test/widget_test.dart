@@ -2,8 +2,8 @@
 
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:demo/main.dart';
-import 'package:demo/shaders_data.dart';
+import 'package:impeller_shader_gallery/main.dart';
+import 'package:impeller_shader_gallery/shaders_data.dart';
 
 void main() {
   testWidgets('Gallery renders a tile per shader', (WidgetTester tester) async {
